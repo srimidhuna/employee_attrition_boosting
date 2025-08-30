@@ -107,3 +107,6 @@ Handle class imbalance using SMOTE or class weighting
 Deploy as an HR dashboard (Flask/Streamlit)
 
 Compare with other algorithms (Random Forest, Logistic Regression, etc.)
+
+
+APP LINK: https://employeeattritionboosting-h9n759rfp7sqpn7eaanaem.streamlit.app/
